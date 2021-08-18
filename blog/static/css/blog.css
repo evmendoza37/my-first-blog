@@ -9,7 +9,6 @@ body {
 .page-header {
     background-color: #377A39;
     margin-top: 0;
-    margin-bottom: 40px;
     padding: 20px 20px 20px 40px;
 }
 
@@ -29,7 +28,8 @@ h4 {
     font-family: 'Lobster', cursive;
     color: #221C1E;
 }
-
+#monkey {width: 100px;
+      height: 100px}
 
 .date {
     color: #539E2E;
