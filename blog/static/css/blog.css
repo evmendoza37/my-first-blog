@@ -1,0 +1,84 @@
+h1 a, h2 a {
+    color: #221C1E;
+    font-family: 'Lobster';
+}
+body {
+    padding-left: 15px;
+    background-image: url(https://media.istockphoto.com/photos/green-leaves-for-background-and-wallpaper-picture-id1221724425?b=1&k=6&m=1221724425&s=170667a&w=0&h=5F1AXwSTehKG9Z8PY415SX5HG4Kh-oyePi7ajef1N60=)
+}
+.page-header {
+    background-color: #377A39;
+    margin-top: 0;
+    margin-bottom: 40px;
+    padding: 20px 20px 20px 40px;
+}
+
+.page-header h1,
+.page-header h1 a,
+.page-header h1 a:visited,
+.page-header h1 a:active {
+    color: #F0EAD6;
+    font-size: 40pt;
+    text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    font-family: 'Lobster', cursive;
+    color: #221C1E;
+}
+
+
+.date {
+    color: #539E2E;
+}
+
+.save {
+    float: right;
+}
+
+.post-form textarea,
+.post-form input {
+    width: 100%;
+}
+
+.top-menu,
+.top-menu:hover,
+.top-menu:visited {
+    color: #ffffff;
+    float: right;
+    font-size: 26pt;
+    margin-right: 20px;
+}
+
+.post {
+    margin-bottom: 70px;
+    border-style: solid;
+    border-color: #377A39;
+    padding: 30px;
+    background-color: #F0EAD6;
+}
+
+.post h2 a,
+.post h2 a:visited {
+    color: #000000;
+}
+
+.post > .date,
+.post > .actions {
+    float: right;
+}
+
+.btn-default,
+.btn-default:visited {
+    color: #C25100;
+    background: none;
+    border-color: #C25100;
+}
+
+.btn-default:hover {
+    color: #FFFFFF;
+    background-color: #C25100;
+}
